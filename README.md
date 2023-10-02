@@ -1,5 +1,5 @@
 # Rockbusters_SQL
-Rockbuster Stealth LLC is a fictitious movie rental company exploring a new strategy for an online video service. This project explores the following key questions, and provides strategy suggestions based on the findings.
+Rockbuster Stealth LLC is a fictitious movie rental company exploring a new strategy for an online video service. This project explores the following key questions in Excel, Tableau & SQL and provides strategy suggestions based on the findings.
 
 Key Questions:
 
